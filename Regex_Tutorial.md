@@ -4,7 +4,7 @@ Welcome to this Regex tutorial! Regex is like a secret code for finding specific
 
 ## Summary
 
-This tutorial features a regex pattern designed to match email addresses. It consists of three parts: *Matching an Email: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+This tutorial features a regex pattern designed to match email addresses. It consists of three parts: *Matching an Email: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Table of Contents
 
